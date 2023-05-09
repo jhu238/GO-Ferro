@@ -2,7 +2,7 @@
 GPU-accelerated Open-source Ferroics dynamics modeling
 The package is still under development at Dr. Jiamian Hu's research group at the University of Wisconsin-Madison (Website https://mesomod.weebly.com/)
 
-<img width="1282" alt="Screenshot 2023-04-24 at 10 07 54 AM" src="https://user-images.githubusercontent.com/61608812/234038299-005d17dd-d73c-4722-8fbb-0f18c04e17f6.png">
+<img width="1549" alt="Screenshot 2023-05-09 at 3 35 26 PM" src="https://github.com/jhu238/GO-Ferro/assets/61608812/6a1e49ed-9fe9-4ddc-a53c-142f1f09f8c6">
 (Left) Phase-field (PF)-based GO-Ferro package incorporates coupled dynamics of ferroic order parameters (e.g., polarization, magnetization, and strain) with photon dynamics; (Right) Scaling performance of the GO-Ferro package.
 
 A few published papers where Go-Ferro was utilized are listed below:
